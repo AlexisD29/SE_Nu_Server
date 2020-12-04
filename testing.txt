@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Concept Design of CAD Endoscope</h1>
+
+<p>You may download the image by clicking on it.:<p>
+<a href="C:\Users\alexi\Server\Endoscope.jpg" download="Endoscope">
+  <img src="C:\Users\alexi\Server\Endoscope.jpg" alt="Endoscope"width="" height="">
+</a>
