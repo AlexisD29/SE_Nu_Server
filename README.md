@@ -8,6 +8,7 @@ Build Instructions:
 The code for the server was built from using two modules and two classes from the python standard library. The code for the html files used the HTML element reference or tags. 
 
 The html code was built by using different HTML elements. The following elements and attributes used:
+
 •	html
 
 •	title
@@ -17,12 +18,19 @@ The html code was built by using different HTML elements. The following elements
 •	p
 
 •	h1
+
 •	DOCTYPE html
+
 •	a
+
 •	download
+
 •	href
+
 •	alt
+
 •	width
+
 •	height
 
 How is the code organized:
